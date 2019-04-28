@@ -1,15 +1,3 @@
----
-title: "ANOVA ffor a RBD with data preprocessing"
-author: "Hair Albeiro Parra Barrera"
-date: "April 26, 2019"
-output: 
-  html_document:
-    keep_md: true
----
-
-
-
-
 
 # ANOVA analysis for a RBD experiment
 
