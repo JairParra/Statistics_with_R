@@ -1,2 +1,2 @@
-# ANOVA_with_R
+# Statistics_with_R
 ANOVA with R (R_studio)
